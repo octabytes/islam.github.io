@@ -1,0 +1,1 @@
+gem "octodoc", git: "git://github.com/OctaBytes/octodoc.git"
