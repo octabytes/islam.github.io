@@ -1,7 +1,8 @@
-theme: octodoc
+theme: octodoc # For local development
+remote_theme: octabytes/octodoc # For remote
 
 title: True Islam
-description: A project to rectify all these issues about Islam
+description: A project to rectify all issues about Islam
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://islam.octabyte.io" # the base hostname & protocol for your site, e.g. http://example.com
 
