@@ -1,4 +1,4 @@
-#theme: octodoc # For local development
+theme: octodoc # For local development
 remote_theme: octabytes/octodoc # For remote
 
 title: True Islam
