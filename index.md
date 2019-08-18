@@ -104,3 +104,7 @@ In our project the facility to ask questions will also be at hand because most p
 - ### APIs
 
 The use of APIs is one of the prominent features of this project. Therefore, our purpose is not only to provide authentic data of Islam to our users but also to grant access to other programmers and developers to this authentic data. These goals can only be achieved through APIs. Besides by using these APIs we want to end the monopoly y of those organizations who want to keep the authentic data only with themselves. Many sincere people who need to use this are truly aspiring to serve Islam.
+
+## Download PDF
+
+[Download PDF](https://github.com/octabytes/islam.github.io/raw/master/Islam.pdf)
