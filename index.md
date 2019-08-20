@@ -43,9 +43,33 @@ We are developing a project to rectify all these issues.
 
 ## Introduction
 
-In today’s modern age, where science and technology have provided us with many facilities they have also given birth to many social and moral evils. The Internet is an example of a useful platform being used for wrongful acts. Though we can acquire many benefits from it while simply sitting in our homes. Our project Will also eradicate evil caused by misinformation spread through the internet. The absence of any governing body over the internet, having different rules and laws for internet in every country and its being in the access of all types of people are the causes of the availability of fake and unauthentic materials over the internet very easily. This is also true in the case of Islam and the religious literature related to it. This is why many active nonmuslims are spoiling the image of Islam through arguments for the sake of argument. They are also using this unauthentic material for reference on international debate forums thus representing Islam in a negative way. Under these circumstances, another threat is from Muslims with ignorant ideologies who are unaware of the basic knowledge and principles of Islam. These people share unauthentic information and knowledge on social media and other public speech forums as a reward worthy noble act. When a non-muslim sees the references of Quran and Hadith in it or translations of these sources he or she accepts it as true because a Muslim has shared it. Incidents like this damage the image of Islam badly. Because if this same non-muslim person searches this material on the internet for authenticity he either finds the same fake material which he or she has already read or he is unable to get access to the true sources of knowledge in the absence of the proper searchable forms. Thus this non-muslim person gets annoyed and stays away from Islam. Some enemies of Islam intentionally add false materials on the internet which is later used by other anti-Islam forces as proof. We are developing a project to rectify all these issues. Which has this main quality among many others that it has intelligence like google. Which means that if someone searches in google with unclear and wrong spellings (like if someone tries to search water with its wrong spellings it senses itself what the client is trying to say) it brings relevant data by saying “did you mean this? “while no such search is available for Islamic literature which could only provide accurate and authentic information. The intelligence based in this project will understand what the client is trying to ask. It will find the most relevant data from the Quran, Hadith, Islamic articles, and video and audio lectures about it. It also searches in already asked questions catalogs. This has never been done before. The details are explained later. Moreover, the API of this project will be prepared and made public. Through APIs anyone can access our features, services and databases. Any project (Web-based, Mobile-Based Desktop-Based) could use it free of cost. With the help of this, an authentic centralized database will be available for everyone. The key features of this project are as follows. 1. Intelligent search which contains in its database holy Quran, compilations of the Hadith, Islamic literature books, audio and video lectures and search in already asked questions catalogs will provide the most relevant information. If a person tries to search in the most insufficient words something he will find the appropriate answer. Some people try to misquote religion to defame it and provide information without proper references. For example, at one place Quran says don’t offer prayers so this search engine will open the other ayahs which help to understand the proper context in which these ayahs are in the Quran. This will clear all meanings. 2. It will have the word by word meanings of the Quran. If one word is clicked then the Quranic origin, and multiple meanings of this will appear (many Quranic words have more than one meanings so it tells the meaning of that clicked word in its context). Along with these multi-language translations multiple Tafaseer will also be available. So that if anyone wants to look into the tafseer of another scholar he could benefit from it without any difficulty. 3. There will be references, multi-language translation, and gradations of different levels in a Hadith. 4. Articles of great scholars and their audio video lectures will be part of this database. Thus if someone asks a question against which there is a more relevant audio and video lecture of a scholar available that will show up in the search results too. 5. And lastly, if a person is not satisfied with all the above options he or she could ask direct questions from scholars. Here he will also find a forum where all the previous questions will be listed so that the repetition of the same information could be avoided. By doing so we can also save the time of the user and as well as our respected scholars. This project is all done only to please Allah Subhanahu Watala so that the true and real representation of Islam could be made possible. Therefore, your cooperation and support of all sorts are very important for us. This cooperation could be in the form of data entry, web development, religious expertise, research work, and financial support. 
+In today’s modern age, where science and technology have provided us with many facilities they have also given birth to many social and moral evils. 
+The Internet is an example of a useful platform being used for wrongful acts. Though we can acquire many benefits from it while simply sitting in our homes. Our project Will also eradicate evil caused by misinformation spread through the internet. 
+
+The absence of any governing body over the internet, having different rules and laws for internet in every country and its being in the access of all types of people are the causes of the availability of fake and unauthentic materials over the internet very easily. This is also true in the case of Islam and the religious literature related to it. This is why many active nonmuslims are spoiling the image of Islam through arguments for the sake of argument. They are also using this unauthentic material for reference on international debate forums thus representing Islam in a negative way. 
+
+Under these circumstances, another threat is from Muslims with ignorant ideologies who are unaware of the basic knowledge and principles of Islam. These people share unauthentic information and knowledge on social media and other public speech forums as a reward worthy noble act. When a non-muslim sees the references of Quran and Hadith in it or translations of these sources he or she accepts it as true because a Muslim has shared it. Incidents like this damage the image of Islam badly. Because if this same non-muslim person searches this material on the internet for authenticity he either finds the same fake material which he or she has already read or he is unable to get access to the true sources of knowledge in the absence of the proper searchable forms. Thus this non-muslim person gets annoyed and stays away from Islam.
+
+Some enemies of Islam intentionally add false materials on the internet which is later used by other anti-Islam forces as proof. 
+
+We are developing a project to rectify all these issues. Which has this main quality among many others that it has intelligence like google. Which means that if someone searches in google with unclear and wrong spellings (like if someone tries to search water with its wrong spellings it senses itself what the client is trying to say)it brings relevant data by saying “did you mean this? “while no such search is available for Islamic literature which could only provide accurate and authentic information.
+
+The intelligence based in this project will understand what the client is trying to ask. It will find the most relevant data from the Quran, Hadith, Islamic articles, and video and audio lectures about it. It also searches in already asked questions catalogs. This has never been done before. The details are explained later. Moreover, the API of this project will be prepared and made public. Through APIs anyone can access our features, services and databases. Any project (Web-based, Mobile-Based Desktop-Based) could use it free of cost. With the help of this, an authentic centralized database will be available for everyone. The key features of this project are as follows.
+
+1. Intelligent search which contains in its database holy Quran, compilations of the Hadith, Islamic literature books, audio and video lectures and search in already asked questions catalogs will provide the most relevant information. If a person tries to search in the most insufficient words something he will find the appropriate answer. Some people try to misquote religion to defame it and provide information without proper references. For example, at one place Quran says don’t offer prayers so this search engine will open the other ayahs which help to understand the proper context in which these ayahs are in the Quran. This will clear all meanings. 
+
+2. It will have the word by word meanings of the Quran. If one word is clicked then the Quranic origin, and multiple meanings of this will appear (many Quranic words have more than one meanings so it tells the meaning of that clicked word in its context). Along with these multi-language translations multiple Tafaseer will also be available. So that if anyone wants to look into the tafseer of another scholar he could benefit from it without any difficulty. 
+
+3. There will be references, multi-language translation, and gradations of different levels in a Hadith. 
+
+4. Articles of great scholars and their audio video lectures will be part of this database. Thus if someone asks a question against which there is a more relevant audio and video lecture of a scholar available that will show up in the search results too. 
+
+5. And lastly, if a person is not satisfied with all the above options he or she could ask direct questions from scholars. Here he will also find a forum where all the previous questions will be listed so that the repetition of the same information could be avoided. By doing so we can also save the time of the user and as well as our respected scholars. This project is all done only to please Allah Subhanahu Watala so that the true and real representation of Islam could be made possible. 
+
+Therefore, your cooperation and support of all sorts are very important for us. This cooperation could be in the form of data entry, web development, religious expertise, research work, and financial support.
 
 Note: In case you are willing to be a part of our team a panel will interview you.
+
 
 ## Problem Statement
 
@@ -76,9 +100,9 @@ In short our project has these qualities and functionalities:
 2. Contextual Search
 3. Intelligent Search
 4. Question Answer Form
-5. Written Articles
-6. Audio and Video Search
-7. APIs and Multi Lingual Translation
+5. Written Articles Audio and Video Search
+6. APIs 
+7. Multi Lingual Translation
 8. Dictionary 
 
 - ### Authentic Data
@@ -101,9 +125,49 @@ The other main problem is that if the word arrangements are different from the t
 
 In our project the facility to ask questions will also be at hand because most probably a user might not be satisfied with the result of his or her search query. This will be done with the help of learned scholars from all schools of thought and their selection will be done with extreme care so that the sectarian differences might be eliminated and the real attributes of Islam might be highlighted.
 
+- ### Written Articles, Audio and Video Data
+
+A lot of audio and video data and authentic written data will also be a part of our data base because a big portion of Islamic literature is in this form also.
+
 - ### APIs
 
 The use of APIs is one of the prominent features of this project. Therefore, our purpose is not only to provide authentic data of Islam to our users but also to grant access to other programmers and developers to this authentic data. These goals can only be achieved through APIs. Besides by using these APIs we want to end the monopoly y of those organizations who want to keep the authentic data only with themselves. Many sincere people who need to use this are truly aspiring to serve Islam.
+
+- ### Multilingual translation
+
+All data of our project will be available in the translation of different languages.
+
+- ### Dictionary
+
+The short description of all words of Quran and Hadith will be available. If a word has more than one meaning, then all other meanings will be presented there. Thus if a novice person has read these words with some other meanings elsewhere he might not consider this different meaning wrong.
+
+## Future Work
+
+1. Comparative studies
+2. Science and Islam
+3. Animation of Islamic worships
+4. Child section 
+5. Online tutor and classes 
+
+- ### Comparative Studies
+
+In the near future we also intend to add comparative religion functionality and initial work has also been started on this. With the help of this functionality a user from any other religion will be facilitated to have a better understanding through comparison of religions.
+
+- ### Science and Islam
+
+One of the major trials and tribulations is the inclination towards atheism or agnosticism which is affecting our youth rapidly. This young generation is not only very much impressed by science but is lacking in religious knowledge also. This behavior has resulted in the devastating situations where the answer to certain questions is not in science, people still reach out to science for these religious questions. We want to provide our youth (with) answers of these questions which religion has given long ago. Without access to this religious literature the youth is getting erroneous views about religion.
+
+- ### Animation of Islamic worship
+
+Reverted Muslims or such Muslims who were Muslims in their past but were away from Islamic teachings and now desire to learn how to perform Salat or ablution and other pillars of Islam will be conveniently taught these with the help of animation.
+
+- ### Child section
+
+One of major trials of this age is to provide such entertainment to our children which is not against Islamic teachings. We are planning to work on this aspect also.
+
+- ### Online tutors and classes
+
+The facility of Learning the Holy Quran and its Tajweed will also be provided. Moreover, such online classes will be initiated in which a large number of people could enroll and get Islamic education.
 
 ## Download PDF
 
