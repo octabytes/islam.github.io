@@ -174,4 +174,4 @@ The facility of Learning the Holy Quran and its Tajweed will also be provided. M
 [Download PDF](https://github.com/octabytes/islam.github.io/raw/master/Islam.pdf)
 
 ## Join Us
-Please fill this form [Join Us](https://forms.gle/zqNUYYWcgy2HSQGj6)
+[Join Us](https://forms.gle/zqNUYYWcgy2HSQGj6) to make this Islamic Project.
