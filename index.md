@@ -2,11 +2,11 @@
 layout: default
 title: Documentation
 nav_order: 1
-description: "Documentation about project True Islam"
+description: "Documentation about project Islam"
 permalink: /
 ---
 
-# True Islam
+# Islam
 {: .no_toc }
 
 A project to rectify all issues about Islam
@@ -169,9 +169,3 @@ One of major trials of this age is to provide such entertainment to our children
 
 The facility of Learning the Holy Quran and its Tajweed will also be provided. Moreover, such online classes will be initiated in which a large number of people could enroll and get Islamic education.
 
-## Download PDF
-
-[Download PDF](https://github.com/octabytes/islam.github.io/raw/master/Islam.pdf)
-
-## Join Us
-[Join Us](https://forms.gle/zqNUYYWcgy2HSQGj6) to make this Islamic Project.
