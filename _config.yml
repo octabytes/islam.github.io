@@ -1,7 +1,7 @@
 #theme: octodoc # For local development
 remote_theme: pmarsceill/just-the-docs
 
-title: True Islam
+title: Islam
 description: A project to rectify all issues about Islam
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://islam.octabyte.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -14,7 +14,7 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "True Islam on GitHub":
+  "Islam on GitHub":
     - "//github.com/OctaBytes/islam.github.io"
 
 # Color scheme currently only supports "dark" or nil (default)
