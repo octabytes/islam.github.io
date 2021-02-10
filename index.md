@@ -9,7 +9,7 @@ permalink: /
 # Islam
 {: .no_toc }
 
-A project to rectify all issues about Islam
+A project to rectify misunderstandings about Islam
 {: .fs-6 .fw-300 }
 
 ## Table of contents
