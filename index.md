@@ -7,18 +7,16 @@ permalink: /
 ---
 
 # Islam
-
 {: .no_toc }
 
 A project to rectify misunderstandings about Islam
 {: .fs-6 .fw-300 }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
